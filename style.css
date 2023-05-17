@@ -1,0 +1,17 @@
+body {
+    background-color: #12343b;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.title{
+    text-align: center;
+    color: #e1b382;
+}
+.createOrder{
+    text-align: center;
+    width: 800px;
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
